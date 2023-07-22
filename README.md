@@ -1,6 +1,6 @@
 # Graph Data Structure and Algorithms
 
-This project implements a graph data structure along with various graph algorithms in C. The project includes functionalities to create, modify, and analyze a graph using an adjacency list representation.
+This project provides a robust C implementation of a graph data structure, complete with various essential graph algorithms, all utilizing an adjacency list representation. With this implementation, you can effortlessly create, modify, and analyze graphs, benefiting from functionalities like adding nodes and edges, finding specific nodes, and conducting operations such as checking reachability and detecting cycles. 
 
 ## Table of Contents
 
